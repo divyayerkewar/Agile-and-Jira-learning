@@ -11,3 +11,9 @@ This repository contains notes and learning material on Agile methodology, Scrum
 ## Example :
 1. Feature and task management:
  This example showcase how to mangage  feature and tasks in agile project
+2.epic example :
+ This example showcase a basic java class for representing an epic with a  name and description
+3. Userstory :
+   userstory example showcase a basic java class for representing a user story with name and details
+
+   
